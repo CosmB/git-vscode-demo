@@ -7,6 +7,6 @@ Returns a list of users.
 ```json
 [
   { "id": 1, "name": "Ana" },
-  { "id": 2, "name": "Mihai" }
+
 ]
 ```
